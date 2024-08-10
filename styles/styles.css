@@ -1,0 +1,64 @@
+body {
+  font-family: "Manrope", sans-serif;
+}
+
+.conteiner {
+  width: 1150px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header-block {
+  margin-bottom: 150px;
+}
+
+.header-block__title {
+  font-size: 55px;
+  line-height: 50px;
+  font-weight: 400;
+  color: #121212;
+  margin-bottom: 30px;
+  width: 915px;
+}
+
+.header-block__text {
+  background-image: url("../resources/bg\ 1.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  color: #ffffff;
+  font-size: 20px;
+  line-height: 27.32px;
+  padding-left: 40px;
+  padding-bottom: 40px;
+  padding-top: 379px;
+  padding-right: 660px;
+}
+
+.description-block {
+  margin-bottom: 150px;
+}
+
+.description-block__title {
+  margin-bottom: 30px;
+  font-size: 18px;
+  line-height: 24.59px;
+  color: #121212;
+}
+
+.description-block__text {
+  font-size: 38px;
+  line-height: 50px;
+  width: 958px;
+  margin-bottom: 30px;
+}
+
+.description-block__link {
+  text-decoration: none;
+  width: 255px;
+  height: 67px;
+  background-color: #ad1818;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 20px 40px;
+  line-height: 67px;
+}
